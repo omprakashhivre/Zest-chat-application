@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277782679066",
+    "project_id": "chatifyme",
+    "storage_bucket": "chatifyme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277782679066:android:a8cff059af30d3d9a78ba3",
+        "android_client_info": {
+          "package_name": "com.example.mychatapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277782679066-mlosv2q22pl85gq4qbjcndh2kb1brmri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychatapptutorial",
+            "certificate_hash": "072cb51c4dc6d014a9ddefdcce098078fb11d6d2"
+          }
+        },
+        {
+          "client_id": "277782679066-epb6b05a17rigucqod96udn1f7g63m05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADADo97KzwGXgkYnCSWCoQHsIVpdSmZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277782679066-epb6b05a17rigucqod96udn1f7g63m05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
